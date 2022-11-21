@@ -34,7 +34,7 @@ export default {
 <style>
   nav {
     padding: 20px;
-    /* border-bottom: 1px solid rgb(126, 218, 183); */
+    border-bottom: 1px solid rgb(227, 231, 230);
     display: flex;
     justify-content: space-between;
     align-items: center;
